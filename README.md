@@ -1,4 +1,3 @@
-<!-- fallback_MangioR_20260513181212_22238 -->
 
 # MangioR: Next-generation MangioRVC platform featuring enterprise-grade technology and advanced cloud-ready for modern framework Implementation
 > Advanced javascript solution leveraging modern architecture patterns and cutting-edge technology.
